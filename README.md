@@ -62,19 +62,20 @@
 
 <br>
 
-<div align = "center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0823-01&layout=donut&langs_count=5&bg_color=45,F803FF,04D7DE&title_color=ffffff&text_color=ffffff&hide_border=True" />
-  </a>
-</div>
-
-<br>
-
-<div align = "center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=0823-01&bg_color=45,F803FF,04D7DE&title_color=ffffff&text_color=ffffff&hide_border=True" />
-  </a>
-</div>
+<table style="margin:0 auto; border:none;">
+  <tr>
+    <td style="padding-right:10px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0823-01&layout=compact&langs_count=5&bg_color=45,F803FF,04D7DE&title_color=ffffff&text_color=ffffff&hide_border=True" />
+      </a>
+    </td>
+    <td style="padding-left:10px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=0823-01&bg_color=45,F803FF,04D7DE&title_color=ffffff&text_color=ffffff&hide_border=True" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
