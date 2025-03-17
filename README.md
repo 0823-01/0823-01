@@ -62,17 +62,18 @@
 
 <br>
 
-<div style="display: flex; justify-content: center; gap:20px;">
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0823-01&layout=compact&langs_count=5&bg_color=45,F803FF,04D7DE&title_color=ffffff&text_color=ffffff&hide_border=True" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=0823-01&bg_color=45,F803FF,04D7DE&title_color=ffffff&text_color=ffffff&hide_border=True" />
-    </a>
-  </div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0823-01&layout=compact&langs_count=5&bg_color=45,F803FF,04D7DE&title_color=ffffff&text_color=ffffff&hide_border=True" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=0823-01&bg_color=45,F803FF,04D7DE&title_color=ffffff&text_color=ffffff&hide_border=True" />
+  </a>
 </div>
 
 <br><br>
