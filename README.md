@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6&height=250&section=header&text=Welcome%20to-nl-My%20Github&fontSize=50&fontAlignY=45" />
 </div>
 
-<hr>
-
 <!-- skills -->
 <h3 align="center">Frontend</h3>
 <div align="center">
@@ -78,13 +76,9 @@
   </a>
 </div>
 
-<br>
+<br><br>
 
-<hr>
-
-<br>
-
-<div align="center">
+<div align="right">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0823-01&count_bg=%23999999&title_bg=%23222222&icon=&icon_color=%23080808&title=Github&edge_flat=false"/></a>
 <div>
 
