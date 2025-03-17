@@ -1,6 +1,6 @@
 <!-- 타이틀 -->
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6&height=300&section=header&text=Welcome%20to-nl-My%20Github&fontSize=50&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6&height=200&section=header&text=Welcome%20to-nl-My%20Github&fontSize=50&fontAlignY=45" />
 </div>
 
 <!-- 내용 -->
