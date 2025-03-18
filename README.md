@@ -63,23 +63,15 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0823-01&layout=compact&langs_count=5&bg_color=45,F803FF,04D7DE&title_color=ffffff&text_color=ffffff&hide_border=True" />
-  </a>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0823-01&layout=compact&langs_count=5&bg_color=45,F803FF,04D7DE&title_color=ffffff&text_color=ffffff&hide_border=True" width="31.13%"/>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=0823-01&bg_color=45,F803FF,04D7DE&title_color=ffffff&text_color=ffffff&hide_border=True" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=0823-01&bg_color=45,F803FF,04D7DE&title_color=ffffff&text_color=ffffff&hide_border=True" width="39.51%" />
 </div>
 
 <br><br>
 
 <div align="right">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0823-01&count_bg=%23999999&title_bg=%23222222&icon=&icon_color=%23080808&title=Github&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0823-01&count_bg=%23222222&title_bg=%23222222&icon=github.svg&&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 <div>
 
 <br>
