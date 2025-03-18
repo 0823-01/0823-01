@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6&height=200&section=header&text=Welcome%20to-nl-My%20Github&fontSize=50&fontAlignY=45" />
 </div>
 
-##
-
 <!-- skills -->
 <h3 align="center">Frontend</h3>
 <div align="center">
@@ -61,17 +59,15 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
-##
-
-<br>
+<br><br>
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0823-01&layout=compact&langs_count=6&bg_color=00000000&title_color=2f80ed&text_color=8B8B8B&hide_border=false&border_color=3d444d" width="38.5%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=0823-01&bg_color=00000000&title_color=2f80ed&text_color=8B8B8B&hide_border=false&border_color=3d444d" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0823-01&bg_color=00000000&title_color=2f80ed&text_color=8B8B8B&text_bold=false&hide_border=false&border_color=3d444d" width="50.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0823-01&layout=compact&langs_count=6&bg_color=00000000&title_color=2f80ed&text_color=8B8B8B&hide_border=false&border_color=3d444d" width="40%"/>
 </div>
 
-<br><br>
+<br>
 
 <!-- Count -->
 <div align="right">
