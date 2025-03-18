@@ -1,7 +1,9 @@
 <!-- title -->
 <div aling="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6&height=250&section=header&text=Welcome%20to-nl-My%20Github&fontSize=50&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6&height=200&section=header&text=Welcome%20to-nl-My%20Github&fontSize=50&fontAlignY=45" />
 </div>
+
+##
 
 <!-- skills -->
 <h3 align="center">Frontend</h3>
@@ -10,6 +12,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"><br>
+  
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -24,6 +27,7 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/springSecurity-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"><br>
+  
   <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black">
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
@@ -46,6 +50,7 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div>
 
+<br>
 
 <h3 align="center">Tools</h3>
 <div align="center">
@@ -56,12 +61,11 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
-<br>
-
-<hr>
+##
 
 <br>
 
+<!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0823-01&layout=compact&langs_count=6&bg_color=00000000&title_color=2f80ed&text_color=8B8B8B&hide_border=false&border_color=3d444d" width="38.5%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=0823-01&bg_color=00000000&title_color=2f80ed&text_color=8B8B8B&hide_border=false&border_color=3d444d" width="49%" />
@@ -69,8 +73,7 @@
 
 <br><br>
 
+<!-- Count -->
 <div align="right">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0823-01&count_bg=%23222222&title_bg=%23222222&icon=github.svg&&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 <div>
-
-<br>
